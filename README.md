@@ -4,3 +4,6 @@ El presente Trabajo Fin de Grado (TFG) tiene como objetivo la puesta en marcha d
 
 **Summary:** 
 The present End of Degree Project (TFG) has as objective the start-up of an automated industrial system, the H268EAM Eyelet Applicator Machine, and its adaptation for the realization of teaching practices in it. During this TFG an exhaustive study of the components, technical characteristics and possible failures or faults of the H268EAM machine will be carried out, proposing the necessary repairs and improvements. The code stored in the automaton will be studied to gather information about the possible operation of the machine, and programming modes will be proposed, based on the Gemma guide, adapted to the teaching needs of the subjects in which this machine will be used as a processing plant. practices. In addition, the machine has a touch control panel (HMI), so it is also the object of this TFG the implementation of the same, as well as the design of an interface that allows students to communicate properly with the plant in the different practice sessions. Keywords: Automation, Programmable Automata (PLC), Machine H268EAM, Panel VT585W
+
+
+Link: https://riull.ull.es/xmlui/handle/915/8234
